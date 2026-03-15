@@ -1,15 +1,15 @@
 # Privacy Policy
 
-**FinTrack**
+**UpUpTrack**
 Last updated: March 16, 2026
 
 ## Overview
 
-FinTrack is a personal finance tracking app that operates entirely on your device. Your financial data never leaves your iPhone.
+UpUpTrack is a personal finance tracking app that operates entirely on your device. Your financial data never leaves your iPhone.
 
 ## Data We Collect
 
-**We do not collect any data.** FinTrack has no servers, no analytics, and no tracking.
+**We do not collect any data.** UpUpTrack has no servers, no analytics, and no tracking.
 
 All information you enter — transactions, categories, payment methods, fixed expenses, mortgage details, and exchange rates — is stored locally on your device using Apple's SwiftData framework.
 
@@ -22,7 +22,7 @@ All information you enter — transactions, categories, payment methods, fixed e
 
 ## Third-Party Services
 
-FinTrack uses **no third-party SDKs, libraries, or services**. The app is built entirely with native Apple frameworks (SwiftUI, SwiftData, Charts).
+UpUpTrack uses **no third-party SDKs, libraries, or services**. The app is built entirely with native Apple frameworks (SwiftUI, SwiftData, Charts).
 
 There is no:
 - Analytics or crash reporting
@@ -32,11 +32,11 @@ There is no:
 
 ## Device Permissions
 
-FinTrack does not request access to your camera, photos, location, contacts, health data, or any other device capabilities beyond standard app operation.
+UpUpTrack does not request access to your camera, photos, location, contacts, health data, or any other device capabilities beyond standard app operation.
 
 ## User Accounts
 
-FinTrack does not require or support user accounts, logins, or any form of authentication.
+UpUpTrack does not require or support user accounts, logins, or any form of authentication.
 
 ## Sensitive Information
 
@@ -44,11 +44,11 @@ The app allows you to optionally store payment method identifiers (e.g., partial
 
 ## Data Deletion
 
-Since all data is stored locally on your device, you can delete all FinTrack data by uninstalling the app. You can also delete individual transactions, categories, payment methods, fixed expenses, and mortgage records from within the app.
+Since all data is stored locally on your device, you can delete all UpUpTrack data by uninstalling the app. You can also delete individual transactions, categories, payment methods, fixed expenses, and mortgage records from within the app.
 
 ## Children's Privacy
 
-FinTrack does not knowingly collect information from children under 13. The app does not collect any personal information from any user.
+UpUpTrack does not knowingly collect information from children under 13. The app does not collect any personal information from any user.
 
 ## Changes to This Policy
 
